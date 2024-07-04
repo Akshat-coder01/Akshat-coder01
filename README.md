@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akshat Sankhala
+- 👀 I’m interested in Web Devlopment, Data Analysis.
+- 🌱 I’m currently persuing MCA Degree from BIT Mesra, offCampus Noida.
+-    I'm familiar with the programming languages like Python, C Language, HTML, CSS, JavaScript, SQL, Pandas, Numpy.
